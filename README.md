@@ -1,16 +1,19 @@
-### Hi there 👋
+### Welcome to my profile, adventurer! ⭐️
 
-<!--
-**nrobert-dev/nrobert-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack developer from Romania. I currently work as a Front-End Technical Lead for [Toluna.com](https://tolunacorporate.com/) in **Timisoara**.
 
-Here are some ideas to get you started:
+My meta build of choice is:
+ - For Front-End (React 💚, Typescript 💙, Redux+Saga 💛)
+ - For Back-End (either NodeJS 💚 or .NET 💙)
+ 
+As you'll see in my repositories I like to experiment with Rust from time to time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a small blog where I talk about my experiments : 🚀 [Master of Some Blog](https://blog.robertnc.com/) 🚀
+
+During my free time I also do game development and 3D Modelling ⭐️ [Digital Art Portfolio](https://www.artstation.com/thunderent) ⭐️
+
+Feel free to [reach out to me](mailto:robert.nechitelea@gmail.com) for help, collabs or work.
+
+✨🚀✨👨🏻‍🚀✨🖖✨
+---
+ 
