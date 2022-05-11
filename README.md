@@ -13,7 +13,7 @@ My meta build of choice is:
  - During my free time I also do game development and 3D Modelling ⭐️ [Digital Art Portfolio](https://www.artstation.com/thunderent) ⭐️
  - I'm available for part-time freelance work! 
 
-Here are my favourite experiments
+Here are my favourite experiments*
 
 | Project        | Description           | Live URL  |
 | ------------- |:-------------:| -----:|
@@ -24,6 +24,7 @@ Here are my favourite experiments
 Check out more below...
 
 
+*experiment = small fun project where I try to learn something new
 
 Feel free to [reach out to me](mailto:robert.nechitelea@gmail.com) for help, collabs or work.
 
