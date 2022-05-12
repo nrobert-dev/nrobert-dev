@@ -1,6 +1,6 @@
 ### Welcome to my profile, adventurer! ⭐️
 
-I'm a Full-Stack developer from Romania. I currently work as a Front-End Technical Lead for [Toluna.com](https://tolunacorporate.com/) in **Timisoara**. You can find out more about me [here](https://robertnc.com)
+I'm a Full-Stack developer from Romania. I currently work as a Front-End Technical Lead for [Toluna.com](https://tolunacorporate.com/) in **Timisoara**. You can find out more about me [here](https://robertnc.com).
 
 My meta build of choice is:
  - For Front-End (React 💚, Typescript 💙, Redux+Saga 💛)
