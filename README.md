@@ -17,7 +17,7 @@ Here are my favourite experiments:*
 
 | Project        | Description           | Live URL  |
 | ------------- |:-------------:| -----:|
-| [Nootify API](https://nootify.onrender.com/)   | An API for sending and managing notifications | [🚀Visit](https://nootify.onrender.com/) |
+| [Nootify API](https://nootify.onrender.com/)   | An API for sending and managing notifications (IN BETA) | [🚀Visit](https://nootify.onrender.com/) |
 | [Master of Some Blog](https://github.com/nrobert-dev/thunderent-blog)   | Source code of my main blog | [🚀Visit](https://blog.robertnc.com) |
 | [Netflix Clone](https://github.com/nrobert-dev/rxJS-netflix-clone)   | Netflix UI made with RxJS and basic node backend | [🚀Visit](https://nrobert-dev.github.io/rxJS-netflix-clone/) |
 | [RPG Inventory](https://github.com/nrobert-dev/typescript-rpg-inventory)      | Simple RPG style inventory written in Typescript      |   [🚀Visit](https://nrobert-dev.github.io/typescript-rpg-inventory/) |
