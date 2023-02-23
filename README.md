@@ -1,17 +1,18 @@
-### Welcome to my profile, adventurer! ⭐️
+### Welcome to my profile! 
 
-I'm a Full-Stack developer from Romania. I currently work as a Front-End Technical Lead for [Toluna.com](https://tolunacorporate.com/) in **Timisoara**. You can find out more about me [here](https://robertnc.com).
+I'm a software engineer currently residing in Romania. I currently work as a Front-End Technical Lead for [Toluna.com](https://tolunacorporate.com/) in **Timisoara**. You can find out more about me [here](https://robertnc.com). I mostly specialize in front-end work.
 
 My meta build of choice is:
- - For Front-End (React 💚, Typescript 💙, Redux+Saga, Redux-Toolkit/Query 💛)
- - For Back-End (either NodeJS 💚 or .NET 💙)
+ - For Front-End (React, Typescript, Redux+Saga, Redux-Toolkit/Query)
+ - For Back-End (either NodeJS or .NET)
+ - For Game Development (Unity + .NET)
  
 
 ### Personal Summary
- - I like to experiment with Rust from time to time (as you'll see from my repositories)
- - I have a small blog where I talk about my experiments : 🚀 [Master of Some Blog](https://blog.robertnc.com/) 🚀
- - During my free time I also do game development and 3D Modelling ⭐️ [Digital Art Portfolio](https://www.artstation.com/thunderent) ⭐️
- - I'm available for part-time freelance work! 
+ - I'm a front-end software engineer at heart but I like to experiment regurarly with other programming languages and systems (such as Rust).
+ - I have a small blog where I talk about my experiments : [Master of Some Blog](https://blog.robertnc.com/) 
+ - During my free time I also do game development and 3D Modelling [Digital Art Portfolio](https://www.artstation.com/thunderent). I have worked on two released games so far : [Merchant Run](https://play.google.com/store/apps/details?id=com.twotwou.MerchantRun) and [Dream of Me](https://thunderent.itch.io/dream-of-me)
+ - My main personal project is [Nootify API](https://nootify.onrender.com/), an API for sending and managing notifications. It's still in Beta.
 
 Here are my favourite experiments:*
 
@@ -29,6 +30,5 @@ Check out more below...
 
 Feel free to [reach out to me](mailto:robert.nechitelea@gmail.com) for help, collabs or work.
 
-✨🚀✨👨🏻‍🚀✨🖖✨
 ---
  
