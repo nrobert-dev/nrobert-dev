@@ -27,6 +27,16 @@ Check out more below...
 
 <sub><sup>*experiment = small fun project where I try to learn something new</sup></sub>
 
+### Useful Stuff
+
+You might find these resources useful:
+| Project        | Description           | Live URL  |
+| ------------- |:-------------:| -----:|
+| [Terraform S3+Lambda Config](https://github.com/nrobert-dev/terraform-aws-fe-scaffold)   | Quick scaffolding for an S3 Bucket and Lambda+CloudWatch | [🚀Visit](https://github.com/nrobert-dev/terraform-aws-fe-scaffold) |
+| [React Permissions Component](https://github.com/nrobert-dev/react-permission-component)   | React Permission Component - display based on permissions | [🚀Visit](https://www.npmjs.com/package/react-permission-component) |
+
+
+
 
 Feel free to [reach out to me](mailto:robert.nechitelea@gmail.com) for help, collabs or work.
 
